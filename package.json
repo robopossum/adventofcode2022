@@ -1,0 +1,12 @@
+{
+  "name": "2022adventofcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "day": "node run.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
